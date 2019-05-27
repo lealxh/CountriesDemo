@@ -1,0 +1,14 @@
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Persistence.deps.json
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Persistence.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.csprojAssemblyReference.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.AssemblyInfo.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Persistence.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.csproj.CopyComplete
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\obj\Debug\netcoreapp2.1\Persistence.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Persistence.runtimeconfig.json
+C:\Users\lealx\source\repos\CountriesDemo\src\Persistence\bin\Debug\netcoreapp2.1\Persistence.runtimeconfig.dev.json

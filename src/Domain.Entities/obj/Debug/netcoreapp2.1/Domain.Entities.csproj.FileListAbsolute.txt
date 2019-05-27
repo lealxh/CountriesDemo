@@ -1,0 +1,9 @@
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.1\Domain.Entities.deps.json
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.AssemblyInfo.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.1\Domain.Entities.csprojAssemblyReference.cache

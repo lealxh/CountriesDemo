@@ -1,0 +1,16 @@
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Application.deps.json
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Application.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Application.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Services.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Persistence.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Domain.Services.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\bin\Debug\netcoreapp2.1\Persistence.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.csprojAssemblyReference.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.csproj.CoreCompileInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.AssemblyInfoInputs.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.AssemblyInfo.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.csproj.CopyComplete
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Domain.Application\obj\Debug\netcoreapp2.1\Domain.Application.pdb
