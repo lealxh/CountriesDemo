@@ -1,4 +1,5 @@
 ﻿using Domain.Application;
+using Domain.Entities;
 using Domain.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -39,6 +40,10 @@ namespace Countries.Client
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseStatusCodePages();
+                app.UseStaticFiles()    ;
+                app.UseMvcWithDefaultRoute();
+                
             }
 
             app.Run(async (context) =>

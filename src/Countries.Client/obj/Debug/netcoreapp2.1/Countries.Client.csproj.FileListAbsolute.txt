@@ -21,3 +21,14 @@ C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcore
 C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.csproj.CopyComplete
 C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.dll
 C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\bin\Debug\netcoreapp2.1\Countries.Client.Views.dll
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\bin\Debug\netcoreapp2.1\Countries.Client.Views.pdb
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.TagHelpers.input.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.TagHelpers.output.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.RazorCoreGenerate.cache
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.RazorTargetAssemblyInfo.cs
+C:\Users\lealx\source\repos\CountriesDemo\src\Countries.Client\obj\Debug\netcoreapp2.1\Countries.Client.Views.pdb
