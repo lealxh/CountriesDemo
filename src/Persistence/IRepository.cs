@@ -2,14 +2,14 @@
 
 namespace Persistence
 {
-    public interface IRepository<T>
+    public interface IRepository<TEntity>
     {
-        IEnumerable<T> GetAll();
-        T Get(long id);
-        void Insert(T entity);
-        void Update(T entity);
-        void Delete(T entity);
-        void Remove(T entity);
+        IEnumerable<TEntity> GetAll();
+        TEntity Get(long id);
+        void Insert(TEntity entity);
+        void Update(TEntity entity);
+        void Delete(TEntity entity);
+        void Remove(TEntity entity);
         void SaveChanges();
     }
 

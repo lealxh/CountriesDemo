@@ -1,0 +1,10 @@
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.2\Domain.Entities.deps.json
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.2\Domain.Entities.runtimeconfig.json
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.2\Domain.Entities.runtimeconfig.dev.json
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.2\Domain.Entities.dll
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\bin\Debug\netcoreapp2.2\Domain.Entities.pdb
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.2\Domain.Entities.csproj.CoreCompileInputs.cache
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.2\Domain.Entities.AssemblyInfoInputs.cache
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.2\Domain.Entities.AssemblyInfo.cs
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.2\Domain.Entities.dll
+D:\Users\jleal\Source\Repos\CountriesDemo\CountriesDemo\src\Domain.Entities\obj\Debug\netcoreapp2.2\Domain.Entities.pdb

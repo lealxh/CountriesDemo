@@ -6,10 +6,10 @@ using System.Linq;
 
 namespace Persistence
 {
-    public class Repository<T>: IRepository<T> where T: class, IEntity
+    public class Repository<TEntity>: IRepository<TEntity> where TEntity: class, IEntity
     {
         private readonly ApplicationContext context;
-        private DbSet<T> entities;
+        private DbSet<TEntity> entities;
 
 
         string errorMessage = string.Empty;
@@ -17,19 +17,19 @@ namespace Persistence
         public Repository(ApplicationContext context)
         {
             this.context = context;
-            entities = context.Set<T>();
+            entities = context.Set<TEntity>();
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<TEntity> GetAll()
         {
             return entities.AsEnumerable();
         }
 
-        public T Get(long id)
+        public TEntity Get(long id)
         {
             return entities.SingleOrDefault(s => s.Id == id);
         }
-        public void Insert(T entity)
+        public void Insert(TEntity entity)
         {
             if (entity == null)
             {
@@ -39,16 +39,18 @@ namespace Persistence
             context.SaveChanges();
         }
 
-        public void Update(T entity)
+        public void Update(TEntity entity)
         {
             if (entity == null)
             {
                 throw new ArgumentNullException("entity");
             }
+            var local = context.Set<TEntity>().Update(entity);
+ 
             context.SaveChanges();
         }
 
-        public void Delete(T entity)
+        public void Delete(TEntity entity)
         {
             if (entity == null)
             {
@@ -57,7 +59,7 @@ namespace Persistence
             entities.Remove(entity);
             context.SaveChanges();
         }
-        public void Remove(T entity)
+        public void Remove(TEntity entity)
         {
             if (entity == null)
             {

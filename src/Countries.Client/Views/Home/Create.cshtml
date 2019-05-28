@@ -1,0 +1,23 @@
+﻿@model CountriesEditViewModel
+
+<h1>@Model.Title</h1>
+<div class="row">
+    <div class="col-sm-12 col-md-12 col-lg-12">
+        @{
+            string action = Model.Edit ? "Edit" : "Create";
+        }
+        <form asp-action="@action" asp-controller="Home" method="post">
+            <input type="hidden"  asp-for="Country.Id"/>
+            <div class="form-group">
+                <label asp-for="Country.Name">
+                    <input asp-for="Country.Name" />
+               </label>
+                <input type="submit" name="@action" value="@action" />
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+
